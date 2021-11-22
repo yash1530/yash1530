@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**yash1530/yash1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <head>
+    <tittle> yash</html>
+  <body>
+    <h1>yash</h1>
+    <h2>yash</h2>
+    <h3>yash</h3>
+    <h4>yash</h4>
+    <h5>yash</h5>    
+    <h6>yash</h6>    
+    </body>
+    </html>
+  
